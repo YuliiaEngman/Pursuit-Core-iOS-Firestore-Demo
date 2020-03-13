@@ -3,6 +3,7 @@ import FirebaseAuth
 
 class LogInViewController: UIViewController {
     
+    
     // MARK: -IBOutlets
     
     @IBOutlet var emailTextField: UITextField!
